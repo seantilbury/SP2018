@@ -5,3 +5,9 @@ Description: Responsive Wordpress Theme based on Material Design for Bootstrap 4
 Version: 0.01
 Author: Sean Tilbury
 */
+
+main {
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+}             
+    
